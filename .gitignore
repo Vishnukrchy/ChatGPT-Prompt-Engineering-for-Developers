@@ -17,4 +17,4 @@ build/
 dist/
 
 # Ignore coverage directory
-.env
+.env/
