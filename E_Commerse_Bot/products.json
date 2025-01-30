@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Smartphone X",
+        "category": "Electronics",
+        "price": 699.99,
+        "description": "A high-end smartphone with a 6.5-inch display and 128GB storage.",
+        "in_stock": true
+    },
+    {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 149.99,
+        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
+        "in_stock": true
+    },
+    {
+        "name": "Cotton T-Shirt",
+        "category": "Clothing",
+        "price": 19.99,
+        "description": "A comfortable and breathable cotton t-shirt available in multiple colors.",
+        "in_stock": false
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 89.99,
+        "description": "Portable Bluetooth speaker with 12-hour battery life.",
+        "in_stock": true
+    },
+    {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "price": 129.99,
+        "description": "Lightweight running shoes with excellent grip and support.",
+        "in_stock": true
+    }
+]
